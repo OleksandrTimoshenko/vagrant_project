@@ -1,3 +1,4 @@
+#!/bin/sh
 apt-get -y update
 apt-get -y install nginx
 sudo rm /etc/nginx/nginx.conf
